@@ -18,7 +18,7 @@ The images for camera calibration are stored in the folder called `camera_cal`.
 
 # Getting Started
 
-All the code is written in Jupyter Notebook in steps so running them sequentially should work fine. It also shows each step in action with an example output result.
+All the code is written in Jupyter Notebook in steps so running them sequentially should work fine. It also shows each step in action with an example output result. You can also look at [sample input video](project_video.mp4) and [sample output video](project_video_detected.mp4) to see project in action on a video.
 
 ## Sample Image Output
 
