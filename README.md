@@ -23,3 +23,7 @@ All the code is written in Jupyter Notebook in steps so running them sequentiall
 ## Sample Image Output
 
 ![Sample output image](output_images/test_images/test2.jpg)
+
+## Sample Output video
+
+![Sample output video](animated.gif)
